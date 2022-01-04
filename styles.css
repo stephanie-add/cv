@@ -1,10 +1,26 @@
+body {background-color: #ebf3fb;
+font-family: 'Alegreya Sans SC', sans-serif;
+margin: 0;
 
-body {background-color: #fff5e1;}
+text-align: center;}
 
-hr{border-color: #ffD39A;
-    border-style: none;
-    border-top-style: dotted;
-    border-width: 8px;
-    width: 10%}
+.menu {background-color: #90d9fb; height: 220px;}
+.profile{margin-top: 50px}
 
-h3{ color: black}
+
+.title{font-size: 3em; color: #9a0680;}
+.page_break{height: 250px}
+
+h3 {font-family: 'Mochiy Pop One', sans-serif;}
+h1 {font-family: 'Licorice', cursive;}
+
+hr {border: 8px; width: 15%; border-style: dotted none none; border-color: #c4b3cf;}
+
+.bottom-container {background-color: #90d9fb; height: 100px; padding: 20px}
+
+.education-row {margin: auto;
+  width: 50%;
+}
+
+.coding-row {margin: auto;}
+.graduation-hat{margin:0px; padding:0px;}
